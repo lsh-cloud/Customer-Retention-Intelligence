@@ -30,6 +30,7 @@ In this project customer churn, revenue at risk and retention opportunities from
 
 ## Data Source
 
-The dataset for this project comes from https://www.kaggle.com/datasets/blastchar/telco-customer-churn. The dataset contains information about customers from a fictonal telecommunications company Telcom, including demographics, contract type and billing.
+- The dataset for this project comes from https://www.kaggle.com/datasets/blastchar/telco-customer-churn.  
+- The dataset contains information about customers from a fictonal telecommunications company Telcom, including demographics, contract type and billing.
 
 
