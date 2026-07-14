@@ -1,4 +1,4 @@
-# Customer Retention Intelligence
+# Customer Retention Analysis
 
 ## Overview
 
