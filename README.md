@@ -6,8 +6,11 @@ In this project customer churn, revenue at risk and retention opportunities from
 
 ## Key Finding
 
- - Customers with month-to-month contracts are more likely to churn that when on one year or two year contracts.
+ - Customers with month-to-month contracts have a churn rate of **42%** much greater than customers on two year contracts, **2.8%**.
  - Customers who have been with the company for 12 months or less have a churn rate of **47%** compared to customers who have a tenure of greater than 49 months, **9.5%**  
+- The total amount of monthly revenue that is at risk to customer churn is **$139,000**
+- Customers who have higher monthly costs and shorter tenures are more likely to churn
+- Key recommendations include investigating lower introductory prices for new customers and incentivising customers to move from month-to-month contracts to longer-term contracts.  
 
 ## Report Pages
 
