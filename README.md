@@ -10,7 +10,13 @@ In this project customer churn, revenue at risk and retention opportunities from
  - Customers who have been with the company for 12 months or less have a churn rate of **47%** compared to customers who have a tenure of greater than 49 months, **9.5%**  
 - The total amount of monthly revenue that is at risk to customer churn is **$139,000**
 - Customers who have higher monthly costs and shorter tenures are more likely to churn
-- Key recommendations include investigating lower introductory prices for new customers and incentivising customers to move from month-to-month contracts to longer-term contracts.  
+- Key recommendations include investigating lower introductory prices for new customers and incentivising customers to move from month-to-month contracts to longer-term contracts.
+
+## Tools used
+
+- DAX
+- Power BI
+- Power Query
 
 ## Report Pages
 
