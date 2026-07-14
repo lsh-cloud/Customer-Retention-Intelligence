@@ -23,12 +23,12 @@ In this project customer churn, revenue at risk and retention opportunities from
 ### Summary
 
 - An overview of factors affect customer churn rate.  
-- Visual representations of how much money is lost a month due to customers leaving the company,labelled as Revenue At Risk.  
+- Visual representations of monthly revenue associated with customers who have left the company, labelled revenue at risk.  
 
 ### Analysis Of Churn Drivers
 
-- Revenue at Risk decomposition tree, showing what factors, such as contract type, lead to the most amount of money potentially being lost due to customer churn.  
-- Heatmap used to explain Churn rate.  
+- Decomposition tree, showing what factors, such as contract type, lead to the the largest amount of revenue at risk.  
+- Heatmap used to explain churn rate.  
 
 ### Customer Retention Strategy
 
