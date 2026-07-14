@@ -2,7 +2,12 @@
 
 ## Overview
 
-In this project customer churn, revenue at risk and retention opportunities from the IBM Telco database  are analysed using Power BI.
+In this project customer churn, revenue at risk and retention opportunities from the IBM Telco database  are analysed using Power BI. 
+
+## Key Finding
+
+ - Customers with month-to-month contracts are more likely to churn that when on one year or two year contracts.
+ - Customers who have been with the company for 12 months or less have a churn rate of **47%** compared to customers who have a tenure of greater than 49 months,**9.5%**  
 
 ## Report Pages
 
