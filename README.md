@@ -24,7 +24,7 @@ In this project customer churn, revenue at risk and retention opportunities from
 
 - An overview of factors affect customer churn rate.  
 - Visual representations of monthly revenue associated with customers who have left the company, labelled revenue at risk.
-  ![SummaryTelco](Images/summary_telco.png)
+  ![SummaryTelco](images/summary_telco.png)
 
 ### Analysis Of Churn Drivers
 
