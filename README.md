@@ -24,16 +24,18 @@ In this project customer churn, revenue at risk and retention opportunities from
 
 - An overview of factors affect customer churn rate.  
 - Visual representations of monthly revenue associated with customers who have left the company, labelled revenue at risk.
-  ![SummaryTelco](images/summary_telco.png)
+  ![SummaryTelco](images/summary_telco.png)  
 
 ### Analysis Of Churn Drivers
 
 - Decomposition tree, showing what factors, such as contract type, lead to the the largest amount of revenue at risk.  
-- Heatmap used to explain churn rate.  
+- Heatmap used to explain churn rate.
+  ![Churn](images/Churn.png)  
 
 ### Customer Retention Strategy
 
 - Possible routes to minimising customer churn are explored
+  ![Retention](images/Retention.png) 
 
 ## Data Source
 
