@@ -26,7 +26,7 @@ In this project customer churn, revenue at risk and retention opportunities from
 - Visual representations of monthly revenue associated with customers who have left the company, labelled revenue at risk.
   ![SummaryTelco](images/summary_telco.png)  
 
-### Analysis Of Churn Drivers
+### Analysis of Churn Drivers
 
 - Decomposition tree, showing what factors, such as contract type, lead to the the largest amount of revenue at risk.  
 - Heatmap used to explain churn rate.
